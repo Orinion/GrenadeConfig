@@ -9,3 +9,9 @@ A Collection of Grenade throws for Aimtux.
 3. ???
 
 4. Profit
+
+## Credits
+
+Mirage by me (unfinished)
+Cache by @machineTheGlobal
+feel free to contribute to this collection
